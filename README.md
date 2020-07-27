@@ -1,2 +1,2 @@
 # Simon-Says-Web-Game-Application
-A simple web game based on the popular game "Simon Says" built with HTML, CSS, and JQuery
+A simple web game based on the popular game "Simon Says" built with HTML, CSS, and JQuery Javascript library. This game would generate random sequences and you would have to reproduce those sequences in the same order. The length keeps increasing as you go further in the game. The goal is to reach as high a score as possible to test your ability to retain information. A distinct sound was used for each button of a different color to make remembering a bit easier.
